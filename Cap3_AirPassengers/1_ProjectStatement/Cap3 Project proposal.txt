@@ -1,0 +1,19 @@
+1. Air passengers:
+[Kaggle: https://www.kaggle.com/datasets/rakannimer/air-passengers]
+
+Contains the number of air passengers per month for the period of 1949 to 1960. No additional features present in data.
+
+
+
+2. Daily Climate time series data:
+[Kaggle: https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data]
+
+The Dataset is a match for those who want to train the model on Weather Forecasting for Indian climate. This dataset provides data from 1st January 2013 to 24th April 2017 in the city of Delhi, India. The 4 parameters here are
+mean temperature, humidity, wind speed and mean pressure.
+
+
+
+3. House Property Sales Time Series:
+[Kaggle: https://www.kaggle.com/datasets/htagholdings/property-sales]
+
+The multivariate time series has more than one time-dependent variable. Property sales data is accumulated for the 2007-2019 period for one specific region. This data contains sales prices for houses and units with 1,2,3,4,5 bedrooms.
